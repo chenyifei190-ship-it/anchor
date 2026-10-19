@@ -1,0 +1,6 @@
+{
+  "name": "ElderNav - Wearable Hospital Smart Navigation Device",
+  "description": "Interactive interface, physical wearable prototype, and Figma design system for an elderly hospital navigation wearable device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
